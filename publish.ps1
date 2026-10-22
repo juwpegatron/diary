@@ -8,7 +8,7 @@
 
 # --- Configuration -----------------------------------------------------------
 $GitExe  = 'C:\Users\juwen_lie\AppData\Local\Programs\Git\cmd\git.exe'
-$RepoUrl = 'https://github.com/juwpegatron/productivity-diary.git'
+$RepoUrl = 'https://github.com/juwpegatron/diary.git'
 $Branch  = 'main'
 # -----------------------------------------------------------------------------
 

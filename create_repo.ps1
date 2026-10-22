@@ -1,6 +1,6 @@
 <#
     create_repo.ps1 - one-time helper to create the private GitHub repo
-                      juwpegatron/productivity-diary.
+                      juwpegatron/diary.
 
     Flow:
       1. git credential fill (non-interactive) -> read stored GitHub token.
@@ -13,9 +13,9 @@
 
 # --- Configuration -----------------------------------------------------------
 $GitExe  = 'C:\Users\juwen_lie\AppData\Local\Programs\Git\cmd\git.exe'
-$RepoUrl = 'https://github.com/juwpegatron/productivity-diary.git'
-$RepoName = 'productivity-diary'
-$BodyJson = '{"name":"productivity-diary","private":true,"description":"Auto-generated productivity diary","has_issues":false}'
+$RepoUrl = 'https://github.com/juwpegatron/diary.git'
+$RepoName = 'diary'
+$BodyJson = '{"name":"diary","private":true,"description":"Auto-generated productivity diary","has_issues":false}'
 # -----------------------------------------------------------------------------
 
 $ErrorActionPreference = 'Stop'
