@@ -1,0 +1,246 @@
+{
+  "generated_at": "2026-10-22T18:40:00+07:00",
+  "totals": {
+    "days": 10,
+    "score_avg": 62.4,
+    "tokens_total": 2847563,
+    "pomodoros_total": 48
+  },
+  "days": [
+    {
+      "day": "2026-10-22",
+      "weekday": "Thursday",
+      "score": 78.0,
+      "stars": 4,
+      "pomodoros": 6,
+      "deep_work_seconds": 14880,
+      "productive_seconds": 18000,
+      "neutral_seconds": 3000,
+      "distracting_seconds": 1200,
+      "idle_seconds": 900,
+      "tokens": {
+        "input": 812345,
+        "output": 6200,
+        "total": 818545,
+        "requests": 214
+      },
+      "top_apps": [
+        { "app": "code.exe", "category": "productive", "seconds": 5400 },
+        { "app": "chrome.exe", "category": "productive", "seconds": 3200 },
+        { "app": "slack.exe", "category": "neutral", "seconds": 1800 },
+        { "app": "spotify.exe", "category": "distracting", "seconds": 600 }
+      ],
+      "coach": "Strong focus session today. Your deep work blocks in the morning paid off with high-quality output. Consider reducing context-switching in the afternoon."
+    },
+    {
+      "day": "2026-10-21",
+      "weekday": "Wednesday",
+      "score": 65.0,
+      "stars": 3,
+      "pomodoros": 5,
+      "deep_work_seconds": 10800,
+      "productive_seconds": 14400,
+      "neutral_seconds": 4200,
+      "distracting_seconds": 2400,
+      "idle_seconds": 1800,
+      "tokens": {
+        "input": 456789,
+        "output": 4500,
+        "total": 461289,
+        "requests": 156
+      },
+      "top_apps": [
+        { "app": "code.exe", "category": "productive", "seconds": 4800 },
+        { "app": "figma.exe", "category": "productive", "seconds": 2400 },
+        { "app": "discord.exe", "category": "distracting", "seconds": 1200 }
+      ],
+      "coach": "Decent productivity but scattered attention. The afternoon social media break extended longer than planned. Try the 5-minute rule for getting back on track."
+    },
+    {
+      "day": "2026-10-20",
+      "weekday": "Tuesday",
+      "score": 82.0,
+      "stars": 5,
+      "pomodoros": 8,
+      "deep_work_seconds": 18000,
+      "productive_seconds": 21600,
+      "neutral_seconds": 2400,
+      "distracting_seconds": 600,
+      "idle_seconds": 600,
+      "tokens": {
+        "input": 234567,
+        "output": 3200,
+        "total": 237767,
+        "requests": 98
+      },
+      "top_apps": [
+        { "app": "code.exe", "category": "productive", "seconds": 7200 },
+        { "app": "terminal.exe", "category": "productive", "seconds": 3600 },
+        { "app": "notion.exe", "category": "productive", "seconds": 1800 }
+      ],
+      "coach": "Exceptional day! You hit flow state multiple times. The morning routine of planning + no-meeting block is clearly working. Keep this pattern."
+    },
+    {
+      "day": "2026-10-19",
+      "weekday": "Monday",
+      "score": 45.0,
+      "stars": 2,
+      "pomodoros": 3,
+      "deep_work_seconds": 5400,
+      "productive_seconds": 7200,
+      "neutral_seconds": 5400,
+      "distracting_seconds": 3600,
+      "idle_seconds": 2400,
+      "tokens": {
+        "input": 123456,
+        "output": 1800,
+        "total": 125256,
+        "requests": 67
+      },
+      "top_apps": [
+        { "app": "outlook.exe", "category": "neutral", "seconds": 3600 },
+        { "app": "code.exe", "category": "productive", "seconds": 2400 },
+        { "app": "youtube.com", "category": "distracting", "seconds": 2100 },
+        { "app": "teams.exe", "category": "neutral", "seconds": 1800 }
+      ],
+      "coach": "Monday slump detected. Meetings fragmented your schedule. Protect at least one 90-minute block tomorrow for deep work."
+    },
+    {
+      "day": "2026-10-18",
+      "weekday": "Sunday",
+      "score": 30.0,
+      "stars": 1,
+      "pomodoros": 1,
+      "deep_work_seconds": 1800,
+      "productive_seconds": 3600,
+      "neutral_seconds": 7200,
+      "distracting_seconds": 5400,
+      "idle_seconds": 3600,
+      "tokens": {
+        "input": 45678,
+        "output": 890,
+        "total": 46568,
+        "requests": 23
+      },
+      "top_apps": [
+        { "app": "chrome.exe", "category": "neutral", "seconds": 4200 },
+        { "app": "code.exe", "category": "productive", "seconds": 1800 },
+        { "app": "netflix.com", "category": "distracting", "seconds": 3600 }
+      ],
+      "coach": "Rest day - that's okay. Light coding session kept momentum. Remember: recovery is part of sustainable productivity."
+    },
+    {
+      "day": "2026-10-17",
+      "weekday": "Saturday",
+      "score": 55.0,
+      "stars": 3,
+      "pomodoros": 4,
+      "deep_work_seconds": 9000,
+      "productive_seconds": 10800,
+      "neutral_seconds": 3600,
+      "distracting_seconds": 1800,
+      "idle_seconds": 1800,
+      "tokens": {
+        "input": 189234,
+        "output": 2100,
+        "total": 191334,
+        "requests": 78
+      },
+      "top_apps": [
+        { "app": "code.exe", "category": "productive", "seconds": 4500 },
+        { "app": "obsidian.md", "category": "productive", "seconds": 2700 },
+        { "app": "reddit.com", "category": "distracting", "seconds": 1200 }
+      ],
+      "coach": "Good weekend progress on the side project. Self-directed work shows higher engagement. Consider what makes this different from weekday tasks."
+    },
+    {
+      "day": "2026-10-16",
+      "weekday": "Friday",
+      "score": 70.0,
+      "stars": 4,
+      "pomodoros": 6,
+      "deep_work_seconds": 12600,
+      "productive_seconds": 16200,
+      "neutral_seconds": 3000,
+      "distracting_seconds": 1800,
+      "idle_seconds": 1200,
+      "tokens": {
+        "input": 345678,
+        "output": 4200,
+        "total": 349878,
+        "requests": 134
+      },
+      "top_apps": [
+        { "app": "code.exe", "category": "productive", "seconds": 5400 },
+        { "app": "git-gui.exe", "category": "productive", "seconds": 2400 },
+        { "app": "slack.exe", "category": "neutral", "seconds": 1800 }
+      ],
+      "coach": "Strong finish to the week. You wrapped up pending tasks before the weekend. This closure habit reduces Monday friction."
+    },
+    {
+      "day": "2026-10-15",
+      "weekday": "Wednesday",
+      "score": 58.0,
+      "stars": 3,
+      "pomodoros": 5,
+      "deep_work_seconds": 9600,
+      "productive_seconds": 12000,
+      "neutral_seconds": 4800,
+      "distracting_seconds": 2400,
+      "idle_seconds": 1800,
+      "tokens": {
+        "input": 198765,
+        "output": 2800,
+        "total": 201565,
+        "requests": 89
+      },
+      "top_apps": [],
+      "coach": "Mid-week consistency. No major peaks or valleys. Sometimes steady progress beats heroic efforts."
+    },
+    {
+      "day": "2026-10-14",
+      "weekday": "Tuesday",
+      "score": 0.0,
+      "stars": 0,
+      "pomodoros": 0,
+      "deep_work_seconds": 0,
+      "productive_seconds": 0,
+      "neutral_seconds": 0,
+      "distracting_seconds": 0,
+      "idle_seconds": 0,
+      "tokens": {
+        "input": 0,
+        "output": 0,
+        "total": 0,
+        "requests": 0
+      },
+      "top_apps": [],
+      "coach": "No data recorded. Sick day? Vacation? Or tracking gap? Either way - rest is productive too."
+    },
+    {
+      "day": "2026-10-13",
+      "weekday": "Monday",
+      "score": 71.0,
+      "stars": 4,
+      "pomodoros": 6,
+      "deep_work_seconds": 13200,
+      "productive_seconds": 15600,
+      "neutral_seconds": 2700,
+      "distracting_seconds": 1500,
+      "idle_seconds": 1200,
+      "tokens": {
+        "input": 267890,
+        "output": 3100,
+        "total": 270990,
+        "requests": 112
+      },
+      "top_apps": [
+        { "app": "code.exe", "category": "productive", "seconds": 5100 },
+        { "app": "vscode.exe", "category": "productive", "seconds": 3300 },
+        { "app": "browser.exe", "category": "neutral", "seconds": 2100 },
+        { "app": "twitter.com", "category": "distracting", "seconds": 900 }
+      ],
+      "coach": "Week started strong with clear priorities. The morning planning session paid dividends throughout the day."
+    }
+  ]
+}
