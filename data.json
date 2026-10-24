@@ -1,64 +1,69 @@
 {
-  "generated_at": "2026-10-24T14:50:40+07:00",
+  "generated_at": "2026-10-24T15:23:46+07:00",
   "totals": {
     "days": 30,
     "score_avg": 5.6,
-    "tokens_total": 2140141786,
+    "tokens_total": 2162662334,
     "pomodoros_total": 41
   },
   "days": [
     {
       "day": "2026-10-24",
       "weekday": "Saturday",
-      "score": 31.1,
+      "score": 31.0,
       "stars": 2,
       "pomodoros": 0,
-      "deep_work_seconds": 2014,
-      "productive_seconds": 2014,
-      "neutral_seconds": 19374,
+      "deep_work_seconds": 2071,
+      "productive_seconds": 2071,
+      "neutral_seconds": 21283,
       "distracting_seconds": 0,
       "idle_seconds": 32048,
       "tokens": {
-        "input": 479134365,
-        "output": 1393546,
-        "total": 480527911,
-        "requests": 2578
+        "input": 501621514,
+        "output": 1426945,
+        "total": 503048459,
+        "requests": 2668
       },
       "top_apps": [
         {
           "app": "opencode.exe",
           "category": "neutral",
-          "seconds": 8035
+          "seconds": 8491
         },
         {
           "app": "msedge.exe",
           "category": "neutral",
-          "seconds": 5198
-        },
-        {
-          "app": "explorer.exe",
-          "category": "productive",
-          "seconds": 1310
+          "seconds": 5493
         },
         {
           "app": "vector.exe",
           "category": "neutral",
-          "seconds": 1162
-        },
-        {
-          "app": "python.exe",
-          "category": "neutral",
-          "seconds": 988
+          "seconds": 1445
         },
         {
           "app": "ms-teams.exe",
           "category": "neutral",
-          "seconds": 923
+          "seconds": 1419
+        },
+        {
+          "app": "explorer.exe",
+          "category": "productive",
+          "seconds": 1357
+        },
+        {
+          "app": "python.exe",
+          "category": "neutral",
+          "seconds": 1002
         },
         {
           "app": "outlook.exe",
           "category": "neutral",
-          "seconds": 882
+          "seconds": 905
+        },
+        {
+          "app": "soma.exe",
+          "category": "neutral",
+          "seconds": 564
         },
         {
           "app": "applicationframehost.exe",
@@ -69,14 +74,9 @@
           "app": "xtop.exe",
           "category": "neutral",
           "seconds": 415
-        },
-        {
-          "app": "soma.exe",
-          "category": "neutral",
-          "seconds": 248
         }
       ],
-      "coach": "You logged 33m deep work today (score 31.1/100, 2 stars). 14% of your 4h deep-work goal - 3h 26m to go. 12m ahead of yesterday. 11m below your 7-day average of 44m. No distracting apps logged - nice and clean. Your sharpest hour recently was 16:00-17:00. Pomodoros: 0 of 8 completed. You switched apps 1882 times today."
+      "coach": "You logged 34m deep work today (score 31.0/100, 2 stars). 14% of your 4h deep-work goal - 3h 25m to go. 13m ahead of yesterday. 10m below your 7-day average of 45m. No distracting apps logged - nice and clean. Your sharpest hour recently was 16:00-17:00. Pomodoros: 0 of 8 completed. You switched apps 1984 times today."
     },
     {
       "day": "2026-10-23",
