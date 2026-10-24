@@ -1,44 +1,44 @@
 {
-  "generated_at": "2026-10-24T15:23:46+07:00",
+  "generated_at": "2026-10-24T15:46:00+07:00",
   "totals": {
     "days": 30,
     "score_avg": 5.6,
-    "tokens_total": 2162662334,
+    "tokens_total": 2181353248,
     "pomodoros_total": 41
   },
   "days": [
     {
       "day": "2026-10-24",
       "weekday": "Saturday",
-      "score": 31.0,
+      "score": 30.9,
       "stars": 2,
       "pomodoros": 0,
-      "deep_work_seconds": 2071,
-      "productive_seconds": 2071,
-      "neutral_seconds": 21283,
+      "deep_work_seconds": 2079,
+      "productive_seconds": 2079,
+      "neutral_seconds": 21807,
       "distracting_seconds": 0,
-      "idle_seconds": 32048,
+      "idle_seconds": 32532,
       "tokens": {
-        "input": 501621514,
-        "output": 1426945,
-        "total": 503048459,
-        "requests": 2668
+        "input": 520287320,
+        "output": 1452053,
+        "total": 521739373,
+        "requests": 2723
       },
       "top_apps": [
         {
           "app": "opencode.exe",
           "category": "neutral",
-          "seconds": 8491
+          "seconds": 8701
         },
         {
           "app": "msedge.exe",
           "category": "neutral",
-          "seconds": 5493
+          "seconds": 5518
         },
         {
           "app": "vector.exe",
           "category": "neutral",
-          "seconds": 1445
+          "seconds": 1570
         },
         {
           "app": "ms-teams.exe",
@@ -48,12 +48,12 @@
         {
           "app": "explorer.exe",
           "category": "productive",
-          "seconds": 1357
+          "seconds": 1364
         },
         {
           "app": "python.exe",
           "category": "neutral",
-          "seconds": 1002
+          "seconds": 1021
         },
         {
           "app": "outlook.exe",
@@ -63,7 +63,7 @@
         {
           "app": "soma.exe",
           "category": "neutral",
-          "seconds": 564
+          "seconds": 570
         },
         {
           "app": "applicationframehost.exe",
@@ -76,7 +76,7 @@
           "seconds": 415
         }
       ],
-      "coach": "You logged 34m deep work today (score 31.0/100, 2 stars). 14% of your 4h deep-work goal - 3h 25m to go. 13m ahead of yesterday. 10m below your 7-day average of 45m. No distracting apps logged - nice and clean. Your sharpest hour recently was 16:00-17:00. Pomodoros: 0 of 8 completed. You switched apps 1984 times today."
+      "coach": "You logged 34m deep work today (score 30.9/100, 2 stars). 14% of your 4h deep-work goal - 3h 25m to go. 14m ahead of yesterday. 10m below your 7-day average of 45m. No distracting apps logged - nice and clean. Your sharpest hour recently was 16:00-17:00. Pomodoros: 0 of 8 completed. You switched apps 2014 times today."
     },
     {
       "day": "2026-10-23",
